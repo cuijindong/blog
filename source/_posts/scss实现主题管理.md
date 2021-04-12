@@ -272,7 +272,7 @@ body {
 ```
 通过html的theme属性决定使用那套样式。效果图如下：
 
-![](https://s31.aconvert.com/convert/p3r68-cdx67/hqpfx-9aqnp.gif)
+![](https://img-blog.csdnimg.cn/20210412100057361.gif)
 
 ## 总结
 通过scss提供的Maps进行主题管理可以将主题样式都放在一起，方便管理和维护。对于主题的添加和删除也很灵活。

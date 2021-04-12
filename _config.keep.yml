@@ -1,0 +1,65 @@
+base_info:
+  title: 大狗子
+  author: 大狗子
+  url: https://cuijindong.github.io/
+style: 
+  avatar: /images/cat.jpg
+  favicon: /images/cat.jpg
+  first_screen:
+    enable: true
+    description: 万丈高楼平地起，勿在浮沙筑高台
+social_contact:
+  enable: true
+  links:
+    github: https://github.com/cuijindong
+    weixin: https://github.com/cuijindong
+code_copy:
+  enable: true
+  style: default
+toc:
+  enable: true
+
+  # Automatically add list number to toc.
+  number: false
+
+  # If true, all level of TOC in a post will be displayed, rather than the activated part of it.
+  expand_all: true
+
+  # If true, open TOC every time when you enter the article page
+  init_open: true
+copyright_info:
+  enable: true
+website_count:
+  # busuanzi
+  # See: http://ibruce.info/2015/04/04/busuanzi/
+  busuanzi_count:
+    enable: true
+    site_uv: true
+    site_pv: true
+    page_pv: true
+local_search:
+  enable: true
+  preload: true
+lazyload:
+  enable: true
+cdn:
+  enable: true
+post:
+  # Post word count
+  # Dependencies: hexo-wordcount (npm install hexo-wordcount)
+  # See: https://github.com/willin/hexo-wordcount
+  word_count:
+    enable: true
+    wordcount: true  # word count, one article
+    min2read: true   # time to read, one article
+
+  # Author label
+  author_label:
+    enable: false
+    auto: false
+    custom_label_list: []
+    
+menu:
+  分类: /categories
+  标签: /tags
+  关于: /about
